@@ -13,6 +13,8 @@ You'll need to use the [Moment.js](https://momentjs.com/) library to work with d
 
 BootStrap
 
+jQuery
+
 CSS
 
 HTML
