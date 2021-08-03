@@ -1,4 +1,4 @@
-$(function () {
+$(function () 
 
   var nineAmInput = $("#9");
   var tenAmInput = $("#10");
