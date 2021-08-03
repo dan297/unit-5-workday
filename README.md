@@ -20,6 +20,8 @@ BootStrap
 
 jQuery
 
+Favicon
+
 CSS
 
 HTML
