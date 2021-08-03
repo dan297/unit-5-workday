@@ -1,6 +1,6 @@
 $(function () {
 
-  var nineAmInput = $("#9")
+  var nineAmInput = $("#9");
   var tenAmInput = $("#10");
   var ellevenAmInput = $("#11");
   var twelveAmInput = $("#12");
