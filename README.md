@@ -3,7 +3,7 @@
 ## What this project does
 
 Users will have the abiliy to enter day to day tasks and resposabilities. The workday scheduler inludes the times of the day as well as a save button that allows users to save what they have entered.
-
+Upon refreshing the page, the users input will still be displayed due to local storageused on the JavaScript.
 
 ## Your Task
 
