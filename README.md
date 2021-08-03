@@ -2,7 +2,7 @@
 
 ## What this project does
 
-users will have the abiliy to
+Users will have the abiliy to enter day to day tasks and resposabilities. The workday scheduler inludes the times of the day as well as a save button that allows users to save what they have entered.
 
 
 ## Your Task
