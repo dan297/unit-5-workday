@@ -57,9 +57,11 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
+The following screenshots demonstrate the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+<img width="1276" alt="Screenshot 2021-08-03 at 23 47 31" src="https://user-images.githubusercontent.com/71897967/128096125-1c25d8f0-17a6-4d3c-ac60-f8687e19372c.png">
+
+<img width="1276" alt="Screenshot 2021-08-03 at 23 46 38" src="https://user-images.githubusercontent.com/71897967/128096131-1afb5e94-fd1d-4114-b265-250f9d1c2c67.png">
 
 
 ## Grading Requirements
