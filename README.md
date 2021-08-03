@@ -59,9 +59,10 @@ THEN the saved events persist
 
 The following screenshots demonstrate the application functionality:
 
+<img width="1276" alt="Screenshot 2021-08-03 at 23 46 38" src="https://user-images.githubusercontent.com/71897967/128096131-1afb5e94-fd1d-4114-b265-250f9d1c2c67.png">
+
 <img width="1276" alt="Screenshot 2021-08-03 at 23 47 31" src="https://user-images.githubusercontent.com/71897967/128096125-1c25d8f0-17a6-4d3c-ac60-f8687e19372c.png">
 
-<img width="1276" alt="Screenshot 2021-08-03 at 23 46 38" src="https://user-images.githubusercontent.com/71897967/128096131-1afb5e94-fd1d-4114-b265-250f9d1c2c67.png">
 
 
 ## Grading Requirements
